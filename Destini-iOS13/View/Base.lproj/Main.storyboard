@@ -99,8 +99,8 @@
     </scenes>
     <resources>
         <image name="background" width="958" height="1793"/>
-        <image name="choice1Background" width="1370.5" height="363"/>
-        <image name="choice2Background" width="1370.5" height="363"/>
+        <image name="choice1Background" width="913.5" height="242"/>
+        <image name="choice2Background" width="913.5" height="242"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
